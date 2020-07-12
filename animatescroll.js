@@ -1,7 +1,7 @@
 /*
- * @build  : 20-07-2013
- * @author : Ram swaroop
- * @site   : Compzets.com
+ * @Creation : 20-06-2020
+ * @author : KarthiVR
+ * @Desc   : for your-MN.in 
  */
 (function($){
 
